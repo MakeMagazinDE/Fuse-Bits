@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Fuse-Bits richtig setzen
 
-## Erklärende Unterzeile (optional)
+**Holen Sie alles aus Ihrem AVR-Mikrocontroller heraus und übernehmen Sie die Kontrolle mit Einstellungen, von denen Sie vielleicht noch nie etwas gehört haben: Nutzen Sie einen externen Taktgenerator, schützen Sie Ihr geistiges Eigentum und verhindern Sie Abstürze bei schwankender Spannung.**
 
-**Vorspann aus dem Heft**
+![Aufmacherbild aus dem Heft](./doc/fusebits_setzen_quer.JPG)
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+Ergänzend zum Artikel in der Make 3/25 gibt es hier die Projektdateien zum Herunterladen.
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Den vollständigen Artikel kann man in der **[Make-Ausgabe 3/25](https://www.heise.de/select/make/2025/3)** lesen.
