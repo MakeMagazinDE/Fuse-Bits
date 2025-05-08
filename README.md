@@ -8,7 +8,7 @@ Maker Media GmbH
 
 **Holen Sie alles aus Ihrem AVR-Mikrocontroller heraus und übernehmen Sie die Kontrolle mit Einstellungen, von denen Sie vielleicht noch nie etwas gehört haben: Nutzen Sie einen externen Taktgenerator, schützen Sie Ihr geistiges Eigentum und verhindern Sie Abstürze bei schwankender Spannung.**
 
-![Aufmacherbild aus dem Heft](./doc/fusebits_setzen_quer.JPG)
+![Aufmacherbild aus dem Heft](./fusebits_setzen_quer.jpg)
 
 Ergänzend zum Artikel in der Make 3/25 gibt es hier die Projektdateien zum Herunterladen.
 
